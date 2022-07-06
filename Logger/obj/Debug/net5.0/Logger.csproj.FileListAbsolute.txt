@@ -1,0 +1,12 @@
+C:\Users\a060493\Documents\3-MyProjects\MailTester\Logger\bin\Debug\net5.0\Logger.deps.json
+C:\Users\a060493\Documents\3-MyProjects\MailTester\Logger\bin\Debug\net5.0\Logger.dll
+C:\Users\a060493\Documents\3-MyProjects\MailTester\Logger\bin\Debug\net5.0\Logger.pdb
+C:\Users\a060493\Documents\3-MyProjects\MailTester\Logger\obj\Debug\net5.0\Logger.csproj.AssemblyReference.cache
+C:\Users\a060493\Documents\3-MyProjects\MailTester\Logger\obj\Debug\net5.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a060493\Documents\3-MyProjects\MailTester\Logger\obj\Debug\net5.0\Logger.AssemblyInfoInputs.cache
+C:\Users\a060493\Documents\3-MyProjects\MailTester\Logger\obj\Debug\net5.0\Logger.AssemblyInfo.cs
+C:\Users\a060493\Documents\3-MyProjects\MailTester\Logger\obj\Debug\net5.0\Logger.csproj.CoreCompileInputs.cache
+C:\Users\a060493\Documents\3-MyProjects\MailTester\Logger\obj\Debug\net5.0\Logger.dll
+C:\Users\a060493\Documents\3-MyProjects\MailTester\Logger\obj\Debug\net5.0\refint\Logger.dll
+C:\Users\a060493\Documents\3-MyProjects\MailTester\Logger\obj\Debug\net5.0\Logger.pdb
+C:\Users\a060493\Documents\3-MyProjects\MailTester\Logger\obj\Debug\net5.0\ref\Logger.dll

@@ -1,0 +1,7 @@
+C:\Users\a060493\Documents\3-MyProjects\MailTester\MailTester\bin\Release\net5.0-windows\publish\MailTester.exe
+C:\Users\a060493\Documents\3-MyProjects\MailTester\MailTester\bin\Release\net5.0-windows\publish\MailTester.dll
+C:\Users\a060493\Documents\3-MyProjects\MailTester\MailTester\bin\Release\net5.0-windows\publish\MailTester.deps.json
+C:\Users\a060493\Documents\3-MyProjects\MailTester\MailTester\bin\Release\net5.0-windows\publish\MailTester.runtimeconfig.json
+C:\Users\a060493\Documents\3-MyProjects\MailTester\MailTester\bin\Release\net5.0-windows\publish\MailTester.pdb
+C:\Users\a060493\Documents\3-MyProjects\MailTester\MailTester\bin\Release\net5.0-windows\publish\Logger.dll
+C:\Users\a060493\Documents\3-MyProjects\MailTester\MailTester\bin\Release\net5.0-windows\publish\Logger.pdb
